@@ -6,13 +6,13 @@ This project demonstrates basic socket programming in Java, with a minimal user 
 
 ---
 
-## 🚀 Overview
+##  Overview
 
 This application allows users on the same local area network (LAN) to communicate by sending and receiving messages through socket connections. The focus is on simplicity and clarity rather than full feature completeness.
 
 ---
 
-## 📦 Features
+##  Features
 
 - Real-time text messaging over LAN
 - Server-client architecture
@@ -21,18 +21,18 @@ This application allows users on the same local area network (LAN) to communicat
 
 ---
 
-## 🖼 Screenshots
+##  Screenshots
 
-### 🗨 Lobby / Global Chat Server
+###  Lobby / Global Chat Server
 ![Lobby](assets/lobby.png)
 
-### 💬 Chat Room
+###  Chat Room
 ![Chat Room](assets/chat-room.png)
 
 
 ---
 
-## 📌 How to Run
+##  How to Run
 
 1. Clone the repository:
    ```bash
@@ -58,7 +58,7 @@ This application allows users on the same local area network (LAN) to communicat
 
 ---
 
-## 🛠 How It Works
+##  How It Works
 
 - One instance acts as a **server**, listening for incoming client connections.
 - Other instances act as **clients**, sending messages to the server.
@@ -67,7 +67,7 @@ This application allows users on the same local area network (LAN) to communicat
 
 ---
 
-## 📌 Notes
+##  Notes
 
 - Make sure all users are on the **same LAN**.
 - SQLite database on server.
